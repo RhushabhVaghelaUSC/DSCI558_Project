@@ -1,0 +1,1849 @@
+@prefix my_ns: <http://dsci558.org/project#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<00918b4e-92f8-4769-8524-dd5ef464f5ea> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Tampa" ;
+    my_ns:park_name "Adventure Island" ;
+    my_ns:type "Waterpark" .
+
+<01494593-5eb2-41d4-9552-86d022c326a5> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "California" ;
+    my_ns:park_name "Six Flags Marine World- Vallejo" ;
+    my_ns:type "Theme Park" .
+
+<0166f002-d312-4e68-bb03-5992de8ad12c> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "California" ;
+    my_ns:park_name "SEA LIFE California USA" ;
+    my_ns:price "NaN"^^xsd:double ;
+    my_ns:type "Aquarium" .
+
+<02e5bf7e-071b-4a78-9bfa-fce91f2b373d> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Orlando" ;
+    my_ns:park_name "Madame Tussauds Orlando" ;
+    my_ns:price "NaN"^^xsd:double ;
+    my_ns:type "Indoor Park" .
+
+<036b0e0b-f5e0-4038-be2a-11adf2e059de> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Denver" ;
+    my_ns:park_name "Six Flags Elitch Gardens" ;
+    my_ns:price "NaN"^^xsd:double ;
+    my_ns:type "Theme Park" .
+
+<044d05b1-e5b7-45bd-bd40-ab22ded84cb9> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Houston" ;
+    my_ns:park_name "Wet 'N Wild Splashtown" ;
+    my_ns:type "Waterpark" .
+
+<049a3ff0-6f17-43d9-bef6-e890ce97edb2> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Texas" ;
+    my_ns:park_name "Schlitterbahn-New Braunfels" ;
+    my_ns:type "Waterpark" .
+
+<04c9df61-3602-489c-97de-e858c7598c28> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Tulsa, OK" ;
+    my_ns:park_name "Zero Latency Tulsa" ;
+    my_ns:type "VR" .
+
+<05fefc8e-d174-4a34-aa79-56639d1f9001> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Texas" ;
+    my_ns:park_name "Schlitterbahn-New Braunfels" ;
+    my_ns:price "NaN"^^xsd:double ;
+    my_ns:type "Waterpark" .
+
+<06403923-fd5a-4d36-970b-bcdba2d6c66b> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Orlando" ;
+    my_ns:park_name "Discovery Cove" ;
+    my_ns:price "100,000,000" ;
+    my_ns:type "Waterpark" .
+
+<06a0a2ea-24e4-4ce2-b2fd-683fff310a20> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Grapevine" ;
+    my_ns:park_name "SEA LIFE Dallas Fort Worth USA" ;
+    my_ns:type "Aquarium" .
+
+<06aac3b1-a081-4976-8233-4ff7745fef0a> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Hawaii" ;
+    my_ns:park_name "Bishop Museum" ;
+    my_ns:price "NaN"^^xsd:double ;
+    my_ns:type "Museum/Historical" .
+
+<07be4f09-98c5-4591-bf5d-0cfeac517fe1> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Scottsdale, AZ" ;
+    my_ns:park_name "Zero Latency Scottsdale" ;
+    my_ns:type "VR" .
+
+<0a94331b-ae5a-41ca-a0cf-6b0faad661dd> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Hawaii" ;
+    my_ns:park_name "Wet n Wild Hawaii" ;
+    my_ns:type "Waterpark" .
+
+<0cdb821f-654f-492d-9789-9e780f0e5fa3> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Hawaii" ;
+    my_ns:park_name "Diamond Head Luau" ;
+    my_ns:type "Show" .
+
+<0de6ea25-11ad-4a11-a809-beea509300b8> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Glendale, CA" ;
+    my_ns:park_name "The VOID at Glendale Galleria" ;
+    my_ns:price "NaN"^^xsd:double ;
+    my_ns:type "VR" .
+
+<0dfdaf92-8770-4099-a129-0df441381b97> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Ohio" ;
+    my_ns:park_name "Zoombezi Bay" ;
+    my_ns:type "Waterpark" .
+
+<0e09302b-5446-4e0b-80ab-8871f788d98e> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Orlando" ;
+    my_ns:park_name "Universal&#039;s Volcano Bay" ;
+    my_ns:type "Waterpark" .
+
+<0fe5b47e-d1af-4a31-98c0-d38ed110be96> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Hawaii" ;
+    my_ns:park_name "Dole Plantation" ;
+    my_ns:price "NaN"^^xsd:double ;
+    my_ns:type "Attraction - Other" .
+
+<10d2c249-8051-4aac-ac68-18d496fd4074> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "California" ;
+    my_ns:park_name "Santa Cruz Beach Boardwalk" ;
+    my_ns:price "NaN"^^xsd:double ;
+    my_ns:type "Theme Park" .
+
+<11258288-2ffc-4955-b03a-2c92959e6a50> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Arizona" ;
+    my_ns:park_name "SEA LIFE Arizona" ;
+    my_ns:type "Aquarium" .
+
+<1235385d-ee31-4deb-a368-a97aee2dfabc> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Chicago" ;
+    my_ns:park_name "Lego Discovery Center" ;
+    my_ns:price "-" ;
+    my_ns:type "Indoor Park" .
+
+<1268351b-d85b-48aa-a589-e21970a6fc39> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Concord" ;
+    my_ns:park_name "SEA LIFE Charlotte-Concord" ;
+    my_ns:type "Aquarium" .
+
+<134b1795-91e8-479d-80cb-48999e32dea6> a my_ns:AmusementPark ;
+    my_ns:country "Lebanon" ;
+    my_ns:location "Beirut" ;
+    my_ns:park_name "Kidzmondo" ;
+    my_ns:price "$25m" ;
+    my_ns:type "Indoor Park" .
+
+<13d42a70-a7d8-4e5a-8c8c-3e92291820f9> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "New York" ;
+    my_ns:park_name "The Great Escape" ;
+    my_ns:type "Theme Park" .
+
+<14c76fb0-dd00-47bb-85c2-881be1658b1b> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Orlando" ;
+    my_ns:park_name "Walt Disney World - Disney's Hollywood Studios" ;
+    my_ns:type "Theme Park" .
+
+<16d1c5cc-e225-42cf-bea4-9b9c63061c3d> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Hawaii" ;
+    my_ns:park_name "Magic of Polynesia Show" ;
+    my_ns:type "Show" .
+
+<16d6ee9a-b03b-4399-aa62-de809e7fea22> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Hawaii" ;
+    my_ns:park_name "Kualoa" ;
+    my_ns:price "NaN"^^xsd:double ;
+    my_ns:type "Attraction - Other" .
+
+<17484dd9-de7a-4cbd-b017-bc0fd9f35857> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Pennsylvania" ;
+    my_ns:park_name "Hersheypark" ;
+    my_ns:type "Theme Park" .
+
+<19091878-adf1-4033-bcac-b151975f840b> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "California" ;
+    my_ns:park_name "Knott's Berry Farm" ;
+    my_ns:price "NaN"^^xsd:double ;
+    my_ns:type "Theme Park" .
+
+<19de8eaf-fc87-4b0b-a9cf-5a631f40f348> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Orlando" ;
+    my_ns:park_name "The Holy Land Experience" ;
+    my_ns:price "16,000,000" ;
+    my_ns:type "Religious" .
+
+<1ad6fcb0-cca6-42b1-9463-69e377acb3ee> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "California" ;
+    my_ns:park_name "Disney California Adventure Park" ;
+    my_ns:price "1,400,000,000" ;
+    my_ns:type "Theme Park" .
+
+<1b05f4e4-2d92-4771-8fd3-ae6636abee1a> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Hawaii" ;
+    my_ns:park_name "Rock-A-Hula" ;
+    my_ns:price "NaN"^^xsd:double ;
+    my_ns:type "Show" .
+
+<1b49fa38-01bd-460b-80fc-fdbc512640cd> a my_ns:AmusementPark ;
+    my_ns:country "Bahamas" ;
+    my_ns:location "Paradise Island" ;
+    my_ns:park_name "Bahamas Aquaventure Water Park" ;
+    my_ns:type "Waterpark" .
+
+<1d5eabda-03c6-40f0-92a3-b73901e3c978> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "New Hampshire" ;
+    my_ns:park_name "Water Country" ;
+    my_ns:type "Waterpark" .
+
+<1ed26669-fecc-481c-a7ab-fce3fcec0339> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "New York" ;
+    my_ns:park_name "Splish-Splash" ;
+    my_ns:price "NaN"^^xsd:double ;
+    my_ns:type "Waterpark" .
+
+<1f61c72e-6f25-4473-9c46-313afc16d245> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Grapevine" ;
+    my_ns:park_name "SEA LIFE Dallas Fort Worth USA" ;
+    my_ns:price "NaN"^^xsd:double ;
+    my_ns:type "Aquarium" .
+
+<1fca9af8-c120-4815-8b2a-51f67d63d989> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "New Jersey" ;
+    my_ns:park_name "Six Flags Wild Safari Animal Park, Jackson" ;
+    my_ns:type "Theme Park" .
+
+<20bc2569-1e77-4482-ac94-f7588b715c6e> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Las Vegas" ;
+    my_ns:park_name "Adventuredome At Circus Circus" ;
+    my_ns:type "Theme Park" .
+
+<20d5ebf5-6532-4a4f-b582-5a65b2037f8f> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Orlando" ;
+    my_ns:park_name "Discovery Cove" ;
+    my_ns:type "Waterpark" .
+
+<210d2116-5e6e-41b8-aa18-7f166249dce3> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "New Jersey" ;
+    my_ns:park_name "Six Flags Wild Safari Animal Park, Jackson" ;
+    my_ns:price "NaN"^^xsd:double ;
+    my_ns:type "Theme Park" .
+
+<21476e44-7771-43b5-bebf-b5be57035447> a my_ns:AmusementPark ;
+    my_ns:country "Lebanon" ;
+    my_ns:location "Beirut" ;
+    my_ns:park_name "Kidzmondo" ;
+    my_ns:type "Indoor Park" .
+
+<22942b09-672c-4ae0-96e5-1f95ed03a382> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Westchester" ;
+    my_ns:park_name "Lego Discovery Center" ;
+    my_ns:price "-" ;
+    my_ns:type "Indoor Park" .
+
+<23931c3d-6c76-4a89-9fe3-a04161ca3c56> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Ohio" ;
+    my_ns:park_name "Cedar Point Shores" ;
+    my_ns:type "Waterpark" .
+
+<23e39ccc-ceff-4a43-9f4e-68a7b93db3cb> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Orlando" ;
+    my_ns:park_name "Universal Studios Florida" ;
+    my_ns:price "600,000,000" ;
+    my_ns:type "Theme Park" .
+
+<2411a31c-a579-4660-a491-5f6c55a5758b> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "California" ;
+    my_ns:park_name "Raging Waters- San Dimas" ;
+    my_ns:type "Waterpark" .
+
+<24494182-c47a-4e2d-848b-4f608c354b53> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Pennsylvania" ;
+    my_ns:park_name "Camelbeach" ;
+    my_ns:type "Waterpark" .
+
+<245cfde1-71d4-4338-be8d-fd5e35dfc86c> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Orlando" ;
+    my_ns:park_name "Aquatica" ;
+    my_ns:type "Waterpark" .
+
+<25a2e42a-4927-44aa-ac1d-b5e894d318de> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "New Jersey" ;
+    my_ns:park_name "Six Flags Hurricane Harbor- Jackson" ;
+    my_ns:type "Waterpark" .
+
+<26425396-d506-4316-b6eb-f7726a924542> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Kentucky" ;
+    my_ns:park_name "Ark Encounter" ;
+    my_ns:price "100,000,000" ;
+    my_ns:type "Religious" .
+
+<2a388029-5986-45b4-8caf-55f584dcd4d9> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "San Francisco" ;
+    my_ns:park_name "The San Francisco Dungeon" ;
+    my_ns:type "Indoor Park" .
+
+<2b529a2c-2f0e-4f40-b56f-98afa5f4fcc8> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Hawaii" ;
+    my_ns:park_name "The Big Kahuna Luau" ;
+    my_ns:price "NaN"^^xsd:double ;
+    my_ns:type "Show" .
+
+<2b86068f-008e-4634-977d-bd8141798b95> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Orlando" ;
+    my_ns:park_name "DisneyQuest" ;
+    my_ns:type "Indoor Park" .
+
+<2c3160a0-f91f-4b6a-b1a2-b5f34afc0c42> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "California" ;
+    my_ns:park_name "Disneyland" ;
+    my_ns:type "Theme Park" .
+
+<2cd395e1-ce8e-4e0d-b65d-436417968dc0> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Marlborough, MA" ;
+    my_ns:park_name "Zero Latency Marlborough" ;
+    my_ns:type "VR" .
+
+<2cffeb5f-6f60-4da8-a070-660217bbb2c2> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Texas" ;
+    my_ns:park_name "Six Flags Over Texas" ;
+    my_ns:price "10,000,000" ;
+    my_ns:type "Theme Park" .
+
+<2d38836f-f071-4b09-be6d-3bffc5b567d1> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Hawaii" ;
+    my_ns:park_name "Dole Plantation" ;
+    my_ns:type "Attraction - Other" .
+
+<2de917a6-0bf2-4312-b62d-10ed0cc5636f> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Anaheim, CA" ;
+    my_ns:park_name "The VOID Downtown Disney" ;
+    my_ns:type "VR" .
+
+<2e458809-e509-4803-9ebc-b5f9845e3f14> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Indiana" ;
+    my_ns:park_name "Holiday World & Splashin' Safari" ;
+    my_ns:type "Waterpark" .
+
+<2e92214e-6986-4d48-8219-a4cc182d9ce1> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Santa Monica, CA" ;
+    my_ns:park_name "The VOID Santa Monica" ;
+    my_ns:type "VR" .
+
+<2ec8cf6f-9a44-4577-af0f-fc41774fc2da> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "California" ;
+    my_ns:park_name "Legoland California" ;
+    my_ns:price "130,000,000" ;
+    my_ns:type "Theme Park" .
+
+<2fe3b866-7e29-48cd-b16b-1594ce5f2d63> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Hawaii" ;
+    my_ns:park_name "Old Lahaina Luau Maui" ;
+    my_ns:type "Show" .
+
+<308d93fd-fc67-4359-b04d-7ef53ae103a5> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "North Carolina" ;
+    my_ns:park_name "Wet &#039;N Wild Emerald Pointe- Greensboro" ;
+    my_ns:type "Waterpark" .
+
+<30ebc6fe-9335-4a10-8166-3ee5faa3a54e> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Hawaii" ;
+    my_ns:park_name "Paradise Cove Luau" ;
+    my_ns:type "Resort" .
+
+<30ec85d0-b029-469c-a8e2-0eb5d95eff21> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Massachusetts" ;
+    my_ns:park_name "Riverside Park" ;
+    my_ns:type "Theme Park" .
+
+<30f9f34e-dbee-4b5d-9fdc-61a858808b24> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Hawaii" ;
+    my_ns:park_name "Maui Ocean Center" ;
+    my_ns:type "Aquarium" .
+
+<32f2bcd1-ec62-4825-b071-6be75247221c> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Las Vegas" ;
+    my_ns:park_name "Madame Tussauds Las Vegas" ;
+    my_ns:price "NaN"^^xsd:double ;
+    my_ns:type "Indoor Park" .
+
+<34348537-ed9a-42e8-91f0-55832a7a3608> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "California" ;
+    my_ns:park_name "Quarry Park" ;
+    my_ns:type "Theme Park" .
+
+<3485718c-eae4-48c8-8bb2-cca60fb45a4b> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "New Jersey" ;
+    my_ns:park_name "Six Flags Hurricane Harbor- Jackson" ;
+    my_ns:price "NaN"^^xsd:double ;
+    my_ns:type "Waterpark" .
+
+<349f1a95-29da-45fc-aabd-3bd59596cc60> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Hawaii" ;
+    my_ns:park_name "Te Moana Nui, Tales of the Pacific" ;
+    my_ns:price "NaN"^^xsd:double ;
+    my_ns:type "Show" .
+
+<3676ecea-2303-4ee6-9702-8404c9474504> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Texas" ;
+    my_ns:park_name "Schlitterbahn-Galveston" ;
+    my_ns:price "NaN"^^xsd:double ;
+    my_ns:type "Waterpark" .
+
+<367ee800-49f2-459d-87c2-2533007c3032> a my_ns:AmusementPark ;
+    my_ns:country "Qatar" ;
+    my_ns:location "Doha" ;
+    my_ns:park_name "Gondolania" ;
+    my_ns:type "Indoor Park" .
+
+<3687c710-d069-47fc-ad0f-4f3b176e0531> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Orlando" ;
+    my_ns:park_name "Universal Studios Islands of Adventure" ;
+    my_ns:type "Theme Park" .
+
+<36ba8a21-15ed-4bd8-bca5-7085f9df8c60> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Texas" ;
+    my_ns:park_name "Six Flags Over Texas" ;
+    my_ns:type "Theme Park" .
+
+<37d6b1a9-f03f-4523-8a3f-1ea411b4d018> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "California" ;
+    my_ns:park_name "Knott&#039;s Soak City" ;
+    my_ns:price "NaN"^^xsd:double ;
+    my_ns:type "Waterpark" .
+
+<394f85a3-1a32-432a-b612-24e454f98a6d> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Hawaii" ;
+    my_ns:park_name "Battleship Missouri Memorial" ;
+    my_ns:price "NaN"^^xsd:double ;
+    my_ns:type "Museum/Historical" .
+
+<39a4e364-175a-409c-9727-eb9c12fc47aa> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Los Angeles" ;
+    my_ns:park_name "Universal Studios Hollywood" ;
+    my_ns:type "Theme Park" .
+
+<3bde867a-fe5c-4dd4-87b3-a5aec3488195> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "California" ;
+    my_ns:park_name "Raging Waters- San Dimas" ;
+    my_ns:price "NaN"^^xsd:double ;
+    my_ns:type "Waterpark" .
+
+<3c1e0fd9-a17c-4a78-8e40-f59c161b1ef8> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Los Angeles" ;
+    my_ns:park_name "Universal Studios Hollywood" ;
+    my_ns:price "4,000,000" ;
+    my_ns:type "Theme Park" .
+
+<3c9f01d3-de09-49d6-bfcd-8f8f5c28b511> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Hawaii" ;
+    my_ns:park_name "Bishop Museum" ;
+    my_ns:type "Museum/Historical" .
+
+<3d0e22b8-10d2-43df-9a29-05e34378562e> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Texas" ;
+    my_ns:park_name "Six Flags-Hurricane Harbor" ;
+    my_ns:price "NaN"^^xsd:double ;
+    my_ns:type "Waterpark" .
+
+<40cb0b34-d844-474b-802c-fdc4b74fc3e9> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Kansas City" ;
+    my_ns:park_name "SEA LIFE Kansas USA" ;
+    my_ns:type "Aquarium" .
+
+<4145513f-1a53-40c3-b476-708bccdda4ee> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "New Hampshire" ;
+    my_ns:park_name "Water Country" ;
+    my_ns:price "NaN"^^xsd:double ;
+    my_ns:type "Waterpark" .
+
+<46250a2d-c406-4bf4-a122-a82562018a73> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Missouri" ;
+    my_ns:park_name "Worlds of Fun" ;
+    my_ns:price "10,000,000" ;
+    my_ns:type "Theme Park" .
+
+<46a1fd29-c26d-4e13-af10-61761e7b6415> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Kansas City" ;
+    my_ns:park_name "Schlitterbahn Kansas" ;
+    my_ns:type "Waterpark" .
+
+<4714b13b-ff6c-4e34-a59e-3a7f655d27ef> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Hawaii" ;
+    my_ns:park_name "Polynesian Cultural Center Luau" ;
+    my_ns:type "Theme Park" .
+
+<49aad0c9-b0b4-4511-89c1-0ff7a55aac15> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Las Vegas" ;
+    my_ns:park_name "Madame Tussauds Las Vegas" ;
+    my_ns:type "Indoor Park" .
+
+<4a3aa77a-8910-40ef-89ed-06742fbb66bc> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Georgia" ;
+    my_ns:park_name "Six Flags-White Water" ;
+    my_ns:type "Waterpark" .
+
+<4ad4a87b-b476-40c2-aef8-c780bd6dc8a6> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Hollywood" ;
+    my_ns:park_name "Madame Tussauds Hollywood" ;
+    my_ns:type "Indoor Park" .
+
+<4bcb02fa-6f90-42e3-88df-a12d55b3b3f4> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Las Vegas" ;
+    my_ns:park_name "Wet 'N Wild Las Vegas" ;
+    my_ns:price "NaN"^^xsd:double ;
+    my_ns:type "Waterpark" .
+
+<4d4046ee-b2dc-4a5d-9ca7-d2f28cae20e1> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Orlando, FL" ;
+    my_ns:park_name "The VOID at Disney Springs" ;
+    my_ns:price "NaN"^^xsd:double ;
+    my_ns:type "VR" .
+
+<4ff7c01c-39b9-4914-947d-6e6ffc95c7c0> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "California" ;
+    my_ns:park_name "California's Great America" ;
+    my_ns:price "40,000,000" ;
+    my_ns:type "Theme Park" .
+
+<531bc452-19b9-46f3-97f5-11af41975ffe> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "California" ;
+    my_ns:park_name "Six Flags Hurricane Harbor- Valencia" ;
+    my_ns:price "NaN"^^xsd:double ;
+    my_ns:type "Waterpark" .
+
+<5328f5cd-4ae8-499a-84f4-ae75dfadd156> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Hawaii" ;
+    my_ns:park_name "Honolulu Zoo" ;
+    my_ns:price "NaN"^^xsd:double ;
+    my_ns:type "Nature/Wildlife" .
+
+<5374e59f-86cf-41ac-b752-f1292834fb7b> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Louisville" ;
+    my_ns:park_name "Kentucky Kingdom" ;
+    my_ns:price "NaN"^^xsd:double ;
+    my_ns:type "Theme Park" .
+
+<54345352-0e43-4231-82e1-c84e7b08e326> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Missouri" ;
+    my_ns:park_name "Worlds of Fun" ;
+    my_ns:type "Theme Park" .
+
+<5459a469-5c79-494c-9f35-5b3b07f38595> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "California" ;
+    my_ns:park_name "Legoland California" ;
+    my_ns:type "Theme Park" .
+
+<54874c86-d699-4da0-882d-ee3ff6df7078> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Florida" ;
+    my_ns:park_name "Walt Disney World - Disney's Animal Kingdom" ;
+    my_ns:type "Theme Park" .
+
+<559bd8a6-c11f-4ec7-9da8-493b52b5b684> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Hawaii" ;
+    my_ns:park_name "Fourever Fab Show" ;
+    my_ns:price "NaN"^^xsd:double ;
+    my_ns:type "Show" .
+
+<55d6f1b4-f414-49f6-828c-0b558da031b1> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Las Vegas, NV" ;
+    my_ns:park_name "The VOID at Grand Canal Shoppes" ;
+    my_ns:type "VR" .
+
+<573378f9-40dc-4517-941e-5f0c610a6f63> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Tennessee" ;
+    my_ns:park_name "Dollywood's Splash Country" ;
+    my_ns:type "Waterpark" .
+
+<57629aa5-bc43-4eeb-8704-4432a48dc98b> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Tampa" ;
+    my_ns:park_name "Adventure Island" ;
+    my_ns:price "NaN"^^xsd:double ;
+    my_ns:type "Waterpark" .
+
+<5827582d-b6f6-41c4-81c5-2d1f69b25e3a> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Anaheim, CA" ;
+    my_ns:park_name "The VOID Downtown Disney" ;
+    my_ns:price "NaN"^^xsd:double ;
+    my_ns:type "VR" .
+
+<58656751-b003-4874-bafc-b55ba2a8dbf9> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Minnesota" ;
+    my_ns:park_name "Valleyfair!" ;
+    my_ns:type "Theme Park" .
+
+<59b8ea8a-3497-4d9c-b22c-95a419800013> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Woburn, MA" ;
+    my_ns:park_name "Zero Latency Woburn" ;
+    my_ns:price "NaN"^^xsd:double ;
+    my_ns:type "VR" .
+
+<5a586535-5f08-4287-a9f1-0ef45a83e166> a my_ns:AmusementPark ;
+    my_ns:country "Kuwait" ;
+    my_ns:location "Kuwait" ;
+    my_ns:park_name "Kidzania" ;
+    my_ns:price "50,000,000" ;
+    my_ns:type "Indoor Park" .
+
+<5aad8020-eab0-4b60-b974-b39ceed347ca> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Bloomington, Minnesota" ;
+    my_ns:park_name "SEA LIFE Minnesota USA" ;
+    my_ns:price "NaN"^^xsd:double ;
+    my_ns:type "Aquarium" .
+
+<5ba3a68b-fe5c-4403-b294-a34fc61f12c5> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Texas" ;
+    my_ns:park_name "Schlitterbahn-Galveston" ;
+    my_ns:type "Waterpark" .
+
+<5c2f4a71-5fa0-4ceb-9fe3-04c1f06012f7> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Denver" ;
+    my_ns:park_name "Six Flags Elitch Gardens" ;
+    my_ns:type "Theme Park" .
+
+<5ce54f3e-5e94-4940-829e-b3e475eace7d> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Orlando, FL" ;
+    my_ns:park_name "Zero Latency Orlando" ;
+    my_ns:price "NaN"^^xsd:double ;
+    my_ns:type "VR" .
+
+<5e55d7a4-1ef2-448e-8481-84c40058bcd7> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Tenessee" ;
+    my_ns:park_name "Dolly Parton's Stampede" ;
+    my_ns:type "Show" .
+
+<5e8b06c8-fca9-48c4-82bb-f9c3a1955559> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Colorado" ;
+    my_ns:park_name "Hyland Hills Water World" ;
+    my_ns:type "Waterpark" .
+
+<5eed2131-cba3-47a9-aa15-103841497c3e> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Hawaii" ;
+    my_ns:park_name "The Byodo-In Temple" ;
+    my_ns:type "Cultural Attraction" .
+
+<6009dc3f-e235-423c-aaec-362ae018e50b> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Florida" ;
+    my_ns:park_name "Wet 'N Wild Orlando" ;
+    my_ns:price "NaN"^^xsd:double ;
+    my_ns:type "Waterpark" .
+
+<60233ee6-d54c-4e6f-a3a7-92954477ab88> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Massachusetts" ;
+    my_ns:park_name "Riverside Park" ;
+    my_ns:price "NaN"^^xsd:double ;
+    my_ns:type "Theme Park" .
+
+<613ac103-1fde-4bc2-9977-0ff4ac2d00e0> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Michigan" ;
+    my_ns:park_name "Michigan's Adventure" ;
+    my_ns:type "Theme Park" .
+
+<61eade33-9f11-4eec-bd75-1dbf7ebd510c> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Tennessee" ;
+    my_ns:park_name "Dollywood's Splash Country" ;
+    my_ns:price "NaN"^^xsd:double ;
+    my_ns:type "Waterpark" .
+
+<62c6c7a0-6228-48a1-a3f4-fb10ab0bf530> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Ohio" ;
+    my_ns:park_name "Cedar Point" ;
+    my_ns:price "NaN"^^xsd:double ;
+    my_ns:type "Theme Park" .
+
+<6353ac7e-732e-4116-b82f-f34fd400cbc1> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Ohio" ;
+    my_ns:park_name "Cedar Point" ;
+    my_ns:type "Theme Park" .
+
+<642d39ab-981d-4a3b-984f-2f4779b236cf> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "New York" ;
+    my_ns:park_name "Madame Tussauds New York" ;
+    my_ns:type "Indoor Park" .
+
+<662c29e9-9e21-4cee-bb75-4bc66b7dd660> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Kansas City" ;
+    my_ns:park_name "Lego Discovery Center" ;
+    my_ns:price "15,000,000" ;
+    my_ns:type "Indoor Park" .
+
+<669b1c4d-0ecd-4509-94c4-577eddb89a2c> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Chicago" ;
+    my_ns:park_name "Lego Discovery Center" ;
+    my_ns:type "Indoor Park" .
+
+<66b1e753-0442-4ea2-b32b-d9788021e98b> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Tampa" ;
+    my_ns:park_name "Busch Gardens Tampa" ;
+    my_ns:price "NaN"^^xsd:double ;
+    my_ns:type "Theme Park" .
+
+<671aa607-9c2c-4efd-a8e3-2a44a23870e2> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Pennsylvania" ;
+    my_ns:park_name "Hersheypark" ;
+    my_ns:price "NaN"^^xsd:double ;
+    my_ns:type "Theme Park" .
+
+<6812cea4-b829-491f-91d6-fc6f40af93c2> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Hawaii" ;
+    my_ns:park_name "Te Moana Nui, Tales of the Pacific" ;
+    my_ns:type "Show" .
+
+<6852fba7-55df-4058-8420-71fe343095a5> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "California" ;
+    my_ns:park_name "Disneyland" ;
+    my_ns:price "17,500,000" ;
+    my_ns:type "Theme Park" .
+
+<68cfe946-c153-43d2-9ac9-4d2056e7e9bc> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "California" ;
+    my_ns:park_name "Quarry Park" ;
+    my_ns:price "3,200,000" ;
+    my_ns:type "Theme Park" .
+
+<69b5a65c-f8ab-4155-8973-69037a387206> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Orlando" ;
+    my_ns:park_name "Universal&#039;s Volcano Bay" ;
+    my_ns:price "600,000,000" ;
+    my_ns:type "Waterpark" .
+
+<6a50184e-808f-4a14-b284-5be4d1fc38d8> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Hawaii" ;
+    my_ns:park_name "USS Bowfin Submarine Museum & Park" ;
+    my_ns:price "NaN"^^xsd:double ;
+    my_ns:type "Museum/Historical" .
+
+<6b552d4b-2ba8-4e10-93fb-64b5a6e92830> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Florida" ;
+    my_ns:park_name "Typhoon Lagoon" ;
+    my_ns:type "Waterpark" .
+
+<6ca301f5-e1e4-4e3f-8a21-62e4573d54b7> a my_ns:AmusementPark ;
+    my_ns:country "Qatar" ;
+    my_ns:location "Doha" ;
+    my_ns:park_name "Gondolania" ;
+    my_ns:price "50,000,000" ;
+    my_ns:type "Indoor Park" .
+
+<6da72720-e4a5-4550-90c8-b42463cf188d> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Washington DC" ;
+    my_ns:park_name "Madame Tussauds Washington DC" ;
+    my_ns:price "NaN"^^xsd:double ;
+    my_ns:type "Indoor Park" .
+
+<6f2b9509-e894-4cfa-8857-bf775cd08e0c> a my_ns:AmusementPark ;
+    my_ns:country "Kuwait" ;
+    my_ns:location "Kuwait" ;
+    my_ns:park_name "Kidzania" ;
+    my_ns:type "Indoor Park" .
+
+<6f95f213-28df-4dfe-bc00-1f666b89b717> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "New York" ;
+    my_ns:park_name "Playland Park" ;
+    my_ns:type "Theme Park" .
+
+<715086e9-3a34-46ad-b185-40bdc23df565> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "San Diego" ;
+    my_ns:park_name "SeaWorld San Diego" ;
+    my_ns:price "1,500,000" ;
+    my_ns:type "Theme Park" .
+
+<71c54ca2-9b07-4d99-a3ba-61800670f3be> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Las Vegas, NV" ;
+    my_ns:park_name "Zero Latency Las Vegas" ;
+    my_ns:price "NaN"^^xsd:double ;
+    my_ns:type "VR" .
+
+<721d240e-5e01-4f5d-bd2b-a15e9fe72152> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "California" ;
+    my_ns:park_name "Disney California Adventure Park" ;
+    my_ns:type "Theme Park" .
+
+<72b33c32-82e9-42d8-9a2d-9710e81ae01b> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Orlando, FL" ;
+    my_ns:park_name "The VOID at Disney Springs" ;
+    my_ns:type "VR" .
+
+<72b3445e-41da-4c18-ad84-ae5cef4d9f10> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Florida" ;
+    my_ns:park_name "Walt Disney World - Magic Kingdom" ;
+    my_ns:type "Theme Park" .
+
+<72fa7fba-0af1-4de9-bbe9-3438cbf8e68f> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Orlando" ;
+    my_ns:park_name "Universal Studios Islands of Adventure" ;
+    my_ns:price "1,000,000,000" ;
+    my_ns:type "Theme Park" .
+
+<73776328-f1f9-4bb4-9fca-2bd26a180ce0> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Minnesota" ;
+    my_ns:park_name "Valleyfair!" ;
+    my_ns:price "NaN"^^xsd:double ;
+    my_ns:type "Theme Park" .
+
+<73cfb08d-20c6-46d6-8bac-2d60b9c1024a> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Pocono, PA" ;
+    my_ns:park_name "Zero Latency Pocono" ;
+    my_ns:type "VR" .
+
+<763dde0e-5a0c-4add-8797-7e1c3af04a91> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Wisconsin Dells, WI" ;
+    my_ns:park_name "Zero Latency Wisconsin Dells" ;
+    my_ns:price "NaN"^^xsd:double ;
+    my_ns:type "VR" .
+
+<78d1e56c-8d41-4f68-ae52-b87ab689742c> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "New Jersey" ;
+    my_ns:park_name "Mariner'S Landing" ;
+    my_ns:type "Theme Park" .
+
+<79153ff1-12ef-45a8-a300-55540bb2d182> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Hawaii" ;
+    my_ns:park_name "Iolani Palace" ;
+    my_ns:price "NaN"^^xsd:double ;
+    my_ns:type "Museum/Historical" .
+
+<7949a86b-d64b-4289-a8d3-be8594ddd274> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Pennsylvania" ;
+    my_ns:park_name "Camelbeach" ;
+    my_ns:price "NaN"^^xsd:double ;
+    my_ns:type "Waterpark" .
+
+<798ac296-c92f-4476-963f-7c89fc15fc7b> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "California" ;
+    my_ns:park_name "Knott&#039;s Soak City" ;
+    my_ns:type "Waterpark" .
+
+<7a3faa23-6ade-45ee-a418-7babc423fbad> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "California" ;
+    my_ns:park_name "Six Flags Magic Mountain" ;
+    my_ns:price "20,000,000" ;
+    my_ns:type "Theme Park" .
+
+<7ae4c30f-a268-4f1a-ac28-5a1c49013d0b> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "San Francisco" ;
+    my_ns:park_name "The San Francisco Dungeon" ;
+    my_ns:price "NaN"^^xsd:double ;
+    my_ns:type "Indoor Park" .
+
+<7b83a1bc-d34c-4024-a0ee-b6ed6be7d3d7> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Langhorne" ;
+    my_ns:park_name "Sesame Place" ;
+    my_ns:price "NaN"^^xsd:double ;
+    my_ns:type "Theme Park" .
+
+<7eb7ef46-7ea4-403d-a7d8-e711788a5838> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Orlando" ;
+    my_ns:park_name "Aquatica" ;
+    my_ns:price "NaN"^^xsd:double ;
+    my_ns:type "Waterpark" .
+
+<7edd3d51-0c25-40da-8521-51b239ca7a41> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Dallas" ;
+    my_ns:park_name "Lego Discovery Center" ;
+    my_ns:price "12,000,000" ;
+    my_ns:type "Indoor Park" .
+
+<7f029c92-8288-4b80-ae7b-46a33dc8314b> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Florida" ;
+    my_ns:park_name "Legoland Florida" ;
+    my_ns:type "Theme Park" .
+
+<7faf4e12-9142-4e2d-af77-398e93294510> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "San Francisco" ;
+    my_ns:park_name "Madame Tussauds San Francisco" ;
+    my_ns:type "Indoor Park" .
+
+<80990e5a-98ca-4232-bac4-b6bc4194a532> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Orlando" ;
+    my_ns:park_name "Universal Studios Florida" ;
+    my_ns:type "Theme Park" .
+
+<8237c7b5-24d3-45ec-94ed-4bee45d3507c> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Katy TX" ;
+    my_ns:park_name "Typhoon Texas" ;
+    my_ns:price "45,000,000" ;
+    my_ns:type "Waterpark" .
+
+<83b19ed5-3ab8-43df-8506-22d4443afbda> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Orlando" ;
+    my_ns:park_name "SeaWorld Orlando" ;
+    my_ns:type "Theme Park" .
+
+<84ce6471-b420-45fd-83cd-e44849e91b85> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Ohio" ;
+    my_ns:park_name "Cedar Point Shores" ;
+    my_ns:price "NaN"^^xsd:double ;
+    my_ns:type "Waterpark" .
+
+<866e9a18-3c90-40da-8564-4aeeaf54a1be> a my_ns:AmusementPark ;
+    my_ns:country "Bahamas" ;
+    my_ns:location "Paradise Island" ;
+    my_ns:park_name "Bahamas Aquaventure Water Park" ;
+    my_ns:price "NaN"^^xsd:double ;
+    my_ns:type "Waterpark" .
+
+<886ac8a3-60a1-406b-9067-d8ecaa003000> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Pennsylvania" ;
+    my_ns:park_name "Dorney Park & Wildwater Kingdom" ;
+    my_ns:price "NaN"^^xsd:double ;
+    my_ns:type "Theme Park" .
+
+<890b2a3f-4453-424d-bf57-42122eabc350> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Orlando" ;
+    my_ns:park_name "SEA LIFE Orlando" ;
+    my_ns:type "Aquarium" .
+
+<89a5f642-f538-435f-97a7-2fddfc01f63a> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Michigan" ;
+    my_ns:park_name "Michigan's Adventure" ;
+    my_ns:price "NaN"^^xsd:double ;
+    my_ns:type "Theme Park" .
+
+<8a34368a-9716-44f9-8f5c-1313077f2dc5> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Ohio" ;
+    my_ns:park_name "Kings Island" ;
+    my_ns:type "Theme Park" .
+
+<8ca3053d-b51f-4b45-83c2-c204a3189242> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "New York" ;
+    my_ns:park_name "Madame Tussauds New York" ;
+    my_ns:price "NaN"^^xsd:double ;
+    my_ns:type "Indoor Park" .
+
+<8e5f7d65-b63d-48e1-a50a-ff79423d231a> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Williamsburg" ;
+    my_ns:park_name "Water Country USA" ;
+    my_ns:price "NaN"^^xsd:double ;
+    my_ns:type "Waterpark" .
+
+<8ea67679-f583-403f-8335-516ddf57e3f5> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "San Francisco" ;
+    my_ns:park_name "Madame Tussauds San Francisco" ;
+    my_ns:price "NaN"^^xsd:double ;
+    my_ns:type "Indoor Park" .
+
+<8ef993d4-3c4a-47de-bce0-22fb5cdca70e> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Florida" ;
+    my_ns:park_name "Walt Disney World - Disney's Animal Kingdom" ;
+    my_ns:price "NaN"^^xsd:double ;
+    my_ns:type "Theme Park" .
+
+<9062e530-285e-4045-b8a0-473c63efcdd2> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Arizona" ;
+    my_ns:park_name "SEA LIFE Arizona" ;
+    my_ns:price "NaN"^^xsd:double ;
+    my_ns:type "Aquarium" .
+
+<9125f56d-4e38-453b-9934-93b87af6082b> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Hawaii" ;
+    my_ns:park_name "Wet n Wild Hawaii" ;
+    my_ns:price "14,000,000" ;
+    my_ns:type "Waterpark" .
+
+<92301009-d9e3-416e-8aa2-8bf142d9d972> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Ohio" ;
+    my_ns:park_name "Kings Island" ;
+    my_ns:price "30,000,000" ;
+    my_ns:type "Theme Park" .
+
+<92444632-92c4-4a61-a886-e907a7e75713> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Boston" ;
+    my_ns:park_name "Lego Discovery Center" ;
+    my_ns:price "-" ;
+    my_ns:type "Indoor Park" .
+
+<9251b4f3-97e2-4bbe-9919-5fe62e42b401> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "California" ;
+    my_ns:park_name "Six Flags Marine World- Vallejo" ;
+    my_ns:price "NaN"^^xsd:double ;
+    my_ns:type "Theme Park" .
+
+<929ad931-b25d-4b61-b289-09ccc6ad2bbc> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Illinois" ;
+    my_ns:park_name "Six Flags Great America" ;
+    my_ns:price "40,000,000" ;
+    my_ns:type "Theme Park" .
+
+<956f42cc-fa13-4c94-8696-0f928d21a323> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Wisconsin Dells, WI" ;
+    my_ns:park_name "Zero Latency Wisconsin Dells" ;
+    my_ns:type "VR" .
+
+<96830235-986a-453d-a0e8-cf82f919b05b> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Katy TX" ;
+    my_ns:park_name "Typhoon Texas" ;
+    my_ns:type "Waterpark" .
+
+<96dfc8d1-ff95-4387-b843-34b2b1eba949> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Kentucky" ;
+    my_ns:park_name "Ark Encounter" ;
+    my_ns:type "Religious" .
+
+<97d9f01f-fcfe-4d4f-8eed-dade96b06a2b> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "New Jersey" ;
+    my_ns:park_name "Six Flags Great Adventure" ;
+    my_ns:type "Theme Park" .
+
+<9849ec60-7c39-42ed-b43e-55c7e387ee39> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Tampa" ;
+    my_ns:park_name "Busch Gardens Tampa" ;
+    my_ns:type "Theme Park" .
+
+<9894c621-1389-4513-8c61-8bee6fb6236f> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Glendale, CA" ;
+    my_ns:park_name "The VOID at Glendale Galleria" ;
+    my_ns:type "VR" .
+
+<98a447c3-35be-4d45-bb4a-aa8871b3b4c1> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Arizona" ;
+    my_ns:park_name "Wet 'N Wild Phoenix" ;
+    my_ns:type "Waterpark" .
+
+<98ba3392-3361-4fbc-b690-ce72e4e569b0> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Alabama" ;
+    my_ns:park_name "The Park at OWA" ;
+    my_ns:type "Theme Park" .
+
+<9a250757-7e91-4154-b7af-a1a81009b463> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Williamsburg" ;
+    my_ns:park_name "Busch Gardens Williamsburg" ;
+    my_ns:price "30,000,000" ;
+    my_ns:type "Theme Park" .
+
+<9a3b21d4-6d70-45da-85b5-9b2cce1dc4ff> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Hawaii" ;
+    my_ns:park_name "Foster Botanical Gardens" ;
+    my_ns:type "Botanic Gardens" .
+
+<9b1b6085-263a-4421-b7ff-2e44fedf3d9a> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "California" ;
+    my_ns:park_name "SEA LIFE California USA" ;
+    my_ns:type "Aquarium" .
+
+<9d04e430-c0a3-480c-84f5-765b1f8a80cc> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Orlando" ;
+    my_ns:park_name "Madame Tussauds Orlando" ;
+    my_ns:type "Indoor Park" .
+
+<9ec25229-8b4e-48de-a441-9c5d0945f525> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "New York" ;
+    my_ns:park_name "The Great Escape" ;
+    my_ns:price "NaN"^^xsd:double ;
+    my_ns:type "Theme Park" .
+
+<a296f2be-6183-467c-96a5-1034dd06f25c> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Hawaii" ;
+    my_ns:park_name "Battleship Missouri Memorial" ;
+    my_ns:type "Museum/Historical" .
+
+<a2fb3273-534e-4903-b39f-5cb12de7cc2b> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Hawaii" ;
+    my_ns:park_name "The Byodo-In Temple" ;
+    my_ns:price "NaN"^^xsd:double ;
+    my_ns:type "Cultural Attraction" .
+
+<a31ae577-37d4-4a1c-bcc3-660c0fd6f334> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "California" ;
+    my_ns:park_name "California's Great America" ;
+    my_ns:type "Theme Park" .
+
+<a36e3638-8908-4b2f-a947-2cce92114b02> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Marlborough, MA" ;
+    my_ns:park_name "Zero Latency Marlborough" ;
+    my_ns:price "NaN"^^xsd:double ;
+    my_ns:type "VR" .
+
+<a3fa56a5-d8bd-472c-b934-0f37c267e4f4> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Florida" ;
+    my_ns:park_name "Blizzard Beach" ;
+    my_ns:price "NaN"^^xsd:double ;
+    my_ns:type "Waterpark" .
+
+<a492e155-a968-48c1-a570-82f5821b09ab> a my_ns:AmusementPark ;
+    my_ns:country "India" ;
+    my_ns:location "Mumbai" ;
+    my_ns:park_name "Kidzania" ;
+    my_ns:type "Indoor Park" .
+
+<a6bfb309-6f87-427d-88e2-c6ee9157db66> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "California" ;
+    my_ns:park_name "Six Flags Magic Mountain" ;
+    my_ns:type "Theme Park" .
+
+<a89e9f1c-afbd-4002-b132-17c2ef726df0> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Hawaii" ;
+    my_ns:park_name "Diamond Head Luau" ;
+    my_ns:price "NaN"^^xsd:double ;
+    my_ns:type "Show" .
+
+<a8cc35f0-8199-436d-b471-e00e23d7ee0e> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Atlanta" ;
+    my_ns:park_name "Lego Discovery Center" ;
+    my_ns:price "-" ;
+    my_ns:type "Indoor Park" .
+
+<a99c37bb-1f80-437f-837f-a65455cf2ffe> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Santa Monica, CA" ;
+    my_ns:park_name "The VOID Santa Monica" ;
+    my_ns:price "NaN"^^xsd:double ;
+    my_ns:type "VR" .
+
+<ab14709e-96ed-4b74-a71b-ac9f01ba1fdb> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Illinois" ;
+    my_ns:park_name "Six Flags Great America" ;
+    my_ns:type "Theme Park" .
+
+<ab3668bd-0b71-45d5-9238-56cbb9c19c79> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Florida" ;
+    my_ns:park_name "EPCOT at Walt Disney World" ;
+    my_ns:price "1,200,000,000" ;
+    my_ns:type "Theme Park" .
+
+<ae018366-66f6-406d-a8f0-7434c69005a1> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Wisconsin" ;
+    my_ns:park_name "Noah's Ark" ;
+    my_ns:price "NaN"^^xsd:double ;
+    my_ns:type "Waterpark" .
+
+<ae48900e-5057-475a-baf9-3a3ff5e91ace> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Georgia" ;
+    my_ns:park_name "Six Flags Over Georgia" ;
+    my_ns:price "12,000,000" ;
+    my_ns:type "Theme Park" .
+
+<ae676a2c-bd28-45ab-82fb-08077c9a1cf1> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Florida" ;
+    my_ns:park_name "Legoland Florida" ;
+    my_ns:price "-" ;
+    my_ns:type "Theme Park" .
+
+<af3c096f-a349-4c5e-8f89-ed7bbad1ec13> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "San Diego" ;
+    my_ns:park_name "SeaWorld San Diego" ;
+    my_ns:type "Theme Park" .
+
+<af5d7668-8b6e-46ee-a738-8340dd8c8511> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "North Carolina" ;
+    my_ns:park_name "Wet &#039;N Wild Emerald Pointe- Greensboro" ;
+    my_ns:price "NaN"^^xsd:double ;
+    my_ns:type "Waterpark" .
+
+<afaf4d91-07fa-460f-8b4a-248a4af10e20> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Houston" ;
+    my_ns:park_name "Wet 'N Wild Splashtown" ;
+    my_ns:price "NaN"^^xsd:double ;
+    my_ns:type "Waterpark" .
+
+<b096332e-462e-4e94-a048-4fda806e215f> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Hawaii" ;
+    my_ns:park_name "Dolphins and You" ;
+    my_ns:type "Marine Attraction" .
+
+<b1d9abb4-4040-4a95-abd1-d689b42fa073> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Hawaii" ;
+    my_ns:park_name "Sea Life Park Hawaii (Waimanalo)" ;
+    my_ns:price "NaN"^^xsd:double ;
+    my_ns:type "Marine Attraction" .
+
+<b2df352d-e97a-4371-afdf-48467cd4dc2d> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Virginia" ;
+    my_ns:park_name "Kings Dominion" ;
+    my_ns:type "Theme Park" .
+
+<b31b3ab9-6470-47f0-b80b-1794307eca35> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Hawaii" ;
+    my_ns:park_name "Maui Ocean Center" ;
+    my_ns:price "NaN"^^xsd:double ;
+    my_ns:type "Aquarium" .
+
+<b359878b-848d-48ab-a14d-b41c63f3b7e7> a my_ns:AmusementPark ;
+    my_ns:country "India" ;
+    my_ns:location "Mumbai" ;
+    my_ns:park_name "Kidzania" ;
+    my_ns:price "$11m" ;
+    my_ns:type "Indoor Park" .
+
+<b3af0029-dde3-4021-a8be-ea716fe60dd3> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Williamsburg" ;
+    my_ns:park_name "Water Country USA" ;
+    my_ns:type "Waterpark" .
+
+<b431a195-1a85-410b-a7b2-0d05d552f0e2> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Hawaii" ;
+    my_ns:park_name "Old Lahaina Luau Maui" ;
+    my_ns:price "NaN"^^xsd:double ;
+    my_ns:type "Show" .
+
+<b473dc2f-1071-42c1-a691-c9cbb34e0f5d> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Texas" ;
+    my_ns:park_name "SeaWorld San Antonio" ;
+    my_ns:price "155,000,000" ;
+    my_ns:type "Theme Park" .
+
+<b53302aa-af48-4c9d-a1b9-8138e3402cde> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Orlando" ;
+    my_ns:park_name "The Holy Land Experience" ;
+    my_ns:type "Religious" .
+
+<b610df20-3914-4d1e-9cfa-99646845b544> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Scottsdale, AZ" ;
+    my_ns:park_name "Zero Latency Scottsdale" ;
+    my_ns:price "NaN"^^xsd:double ;
+    my_ns:type "VR" .
+
+<b82412ed-5b01-4453-b970-441d696bc706> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Hawaii" ;
+    my_ns:park_name "Polynesian Cultural Center" ;
+    my_ns:type "Theme Park" .
+
+<b8580fc7-5bb5-4105-8fa5-0079095deb92> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Florida" ;
+    my_ns:park_name "Typhoon Lagoon" ;
+    my_ns:price "NaN"^^xsd:double ;
+    my_ns:type "Waterpark" .
+
+<b8824ec1-9f62-41cc-b610-2539238435cb> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Hawaii" ;
+    my_ns:park_name "Foster Botanical Gardens" ;
+    my_ns:price "NaN"^^xsd:double ;
+    my_ns:type "Botanic Gardens" .
+
+<b889f6c7-684c-4eb5-a99b-599cd0eb4d5c> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Las Vegas, NV" ;
+    my_ns:park_name "The VOID at Grand Canal Shoppes" ;
+    my_ns:price "NaN"^^xsd:double ;
+    my_ns:type "VR" .
+
+<b959d494-9e63-4e5a-b76c-390ab6978cb2> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "New Jersey" ;
+    my_ns:park_name "Mariner'S Landing" ;
+    my_ns:price "NaN"^^xsd:double ;
+    my_ns:type "Theme Park" .
+
+<bad85690-884e-44da-b6c4-0f270b1e60d4> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Hawaii" ;
+    my_ns:park_name "Iolani Palace" ;
+    my_ns:type "Museum/Historical" .
+
+<bb29ae07-cd08-4e91-95dc-cce98d59f808> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Hawaii" ;
+    my_ns:park_name "Honolulu Zoo" ;
+    my_ns:type "Nature/Wildlife" .
+
+<bd7c0842-1e89-4011-b294-69273c02bf33> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Hawaii" ;
+    my_ns:park_name "Paradise Cove Luau" ;
+    my_ns:price "NaN"^^xsd:double ;
+    my_ns:type "Resort" .
+
+<bdc4f5b4-181a-4c6c-ab68-4b5687c3c271> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Texas" ;
+    my_ns:park_name "Six Flags-Hurricane Harbor" ;
+    my_ns:type "Waterpark" .
+
+<be57236a-fbea-46bf-9c52-77232d9d7d06> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Auburn Hills, Michigan" ;
+    my_ns:park_name "SEA LIFE Michigan" ;
+    my_ns:price "NaN"^^xsd:double ;
+    my_ns:type "Aquarium" .
+
+<bf1cc468-4084-45ea-87f7-704298528ef1> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Florida" ;
+    my_ns:park_name "Walt Disney World - Magic Kingdom" ;
+    my_ns:price "320,000,000" ;
+    my_ns:type "Theme Park" .
+
+<bf40392c-ac3e-48c9-b588-b26f90b32d04> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Tenessee" ;
+    my_ns:park_name "Dolly Parton's Stampede" ;
+    my_ns:price "NaN"^^xsd:double ;
+    my_ns:type "Show" .
+
+<bf532309-c2db-4c2c-8dc6-ba4836de131b> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Florida" ;
+    my_ns:park_name "Blizzard Beach" ;
+    my_ns:type "Waterpark" .
+
+<bf6c135d-ae80-4a35-97f2-300dc2758870> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Orlando" ;
+    my_ns:park_name "DisneyQuest" ;
+    my_ns:price "100,000,000" ;
+    my_ns:type "Indoor Park" .
+
+<c005c8c9-e6b6-4b6e-bd51-f4961d53d8fb> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Las Vegas, NV" ;
+    my_ns:park_name "Zero Latency Las Vegas" ;
+    my_ns:type "VR" .
+
+<c2b6ad0f-0e2a-4bde-98a4-972dabc09128> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Kansas City" ;
+    my_ns:park_name "Lego Discovery Center" ;
+    my_ns:type "Indoor Park" .
+
+<c4468da3-3615-4639-820e-6b04360016a1> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Pocono, PA" ;
+    my_ns:park_name "Zero Latency Pocono" ;
+    my_ns:price "NaN"^^xsd:double ;
+    my_ns:type "VR" .
+
+<c446dcb1-c944-4f0e-ae35-8457959d791f> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Hawaii" ;
+    my_ns:park_name "Polynesian Cultural Center Luau" ;
+    my_ns:price "NaN"^^xsd:double ;
+    my_ns:type "Theme Park" .
+
+<c556a972-5998-487f-9f77-a0a38e81b1c8> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Indiana" ;
+    my_ns:park_name "Holiday World & Splashin' Safari" ;
+    my_ns:price "NaN"^^xsd:double ;
+    my_ns:type "Waterpark" .
+
+<c6152f10-f113-4e76-ae65-a1b4924f0969> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Orlando" ;
+    my_ns:park_name "Orlando Eye" ;
+    my_ns:type "Wheel" .
+
+<c6948c7f-8ea6-4078-9b65-2b413c16346d> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Hawaii" ;
+    my_ns:park_name "Polynesian Cultural Center" ;
+    my_ns:price "NaN"^^xsd:double ;
+    my_ns:type "Theme Park" .
+
+<c6b00881-a384-44c6-a371-4a982572e66f> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Hawaii" ;
+    my_ns:park_name "USS Bowfin Submarine Museum & Park" ;
+    my_ns:type "Museum/Historical" .
+
+<c7397d40-e2ff-4d85-96e2-c452b14a45d4> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "California" ;
+    my_ns:park_name "Santa Cruz Beach Boardwalk" ;
+    my_ns:type "Theme Park" .
+
+<c770067d-330e-43fb-8ffd-f22b91d8a509> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Hawaii" ;
+    my_ns:park_name "Magic of Polynesia Show" ;
+    my_ns:price "NaN"^^xsd:double ;
+    my_ns:type "Show" .
+
+<c806fceb-e876-4783-94f1-d84262b3c28b> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Las Vegas" ;
+    my_ns:park_name "Wet 'N Wild Las Vegas" ;
+    my_ns:type "Waterpark" .
+
+<c82133f2-8226-4687-8670-27581aacdf94> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Langhorne" ;
+    my_ns:park_name "Sesame Place" ;
+    my_ns:type "Theme Park" .
+
+<c8ce98ee-8769-44b8-a31f-b794859efbd0> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Concord" ;
+    my_ns:park_name "SEA LIFE Charlotte-Concord" ;
+    my_ns:price "10,000,000" ;
+    my_ns:type "Aquarium" .
+
+<ca368dfe-f553-4308-9c19-c00d99aa6199> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Georgia" ;
+    my_ns:park_name "Six Flags-White Water" ;
+    my_ns:price "NaN"^^xsd:double ;
+    my_ns:type "Waterpark" .
+
+<cb4d214d-3524-4c61-aa52-afbf7c83a2db> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Hawaii" ;
+    my_ns:park_name "Kualoa" ;
+    my_ns:type "Attraction - Other" .
+
+<ce9f365a-5b5b-47e2-9e57-8b2a0f873ab6> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Hollywood" ;
+    my_ns:park_name "Madame Tussauds Hollywood" ;
+    my_ns:price "55,000,000" ;
+    my_ns:type "Indoor Park" .
+
+<cee6fc0b-af73-4490-af6c-b8bb33e92cb4> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Atlanta" ;
+    my_ns:park_name "Lego Discovery Center" ;
+    my_ns:type "Indoor Park" .
+
+<d272e662-bacb-41e7-a227-c45a7c355b48> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Hawaii" ;
+    my_ns:park_name "Fourever Fab Show" ;
+    my_ns:type "Show" .
+
+<d2b3c566-02d1-4225-82a5-7f148bd5c03c> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Auburn Hills, Michigan" ;
+    my_ns:park_name "SEA LIFE Michigan" ;
+    my_ns:type "Aquarium" .
+
+<d3700d6a-2070-443c-bcea-508154106fe4> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Hawaii" ;
+    my_ns:park_name "Sea Life Park Hawaii (Waimanalo)" ;
+    my_ns:type "Marine Attraction" .
+
+<d3acaaec-f9c6-447e-be09-84fcb07e30f7> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "California" ;
+    my_ns:park_name "Knott's Berry Farm" ;
+    my_ns:type "Theme Park" .
+
+<d7e061e7-f3da-4ddc-af17-3c053a56445d> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "New York" ;
+    my_ns:park_name "Splish-Splash" ;
+    my_ns:type "Waterpark" .
+
+<d9c89a74-3091-4d30-9b6e-afc4ed0f2bbe> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Las Vegas" ;
+    my_ns:park_name "Adventuredome At Circus Circus" ;
+    my_ns:price "NaN"^^xsd:double ;
+    my_ns:type "Theme Park" .
+
+<da385783-8234-4361-b60e-286c6e379fae> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "California" ;
+    my_ns:park_name "Six Flags Hurricane Harbor- Valencia" ;
+    my_ns:type "Waterpark" .
+
+<da85ab88-669c-4db8-a37d-3e30a3119516> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Alabama" ;
+    my_ns:park_name "The Park at OWA" ;
+    my_ns:price "240,000,000" ;
+    my_ns:type "Theme Park" .
+
+<dbb05766-f102-458f-b65b-a2b0bbe3eef5> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Virginia" ;
+    my_ns:park_name "Kings Dominion" ;
+    my_ns:price "50,000,000" ;
+    my_ns:type "Theme Park" .
+
+<dbecb6d9-f896-459f-9594-d6639910a7e7> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Ohio" ;
+    my_ns:park_name "Zoombezi Bay" ;
+    my_ns:price "NaN"^^xsd:double ;
+    my_ns:type "Waterpark" .
+
+<dc2af227-e618-4561-856a-be895fa1ba48> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Louisville" ;
+    my_ns:park_name "Kentucky Kingdom" ;
+    my_ns:type "Theme Park" .
+
+<dc4f8aed-5ae7-44a9-bcf5-77bf07ad5e33> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Dallas" ;
+    my_ns:park_name "Lego Discovery Center" ;
+    my_ns:type "Indoor Park" .
+
+<dd24cfe4-a3ab-4f38-8c0d-32c4ee4ee053> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Wisconsin" ;
+    my_ns:park_name "Noah's Ark" ;
+    my_ns:type "Waterpark" .
+
+<ddfecfec-89f8-494f-840d-ccae2bd0565b> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Tulsa, OK" ;
+    my_ns:park_name "Zero Latency Tulsa" ;
+    my_ns:price "NaN"^^xsd:double ;
+    my_ns:type "VR" .
+
+<dee9200a-6cc5-4882-87b3-badc08ace40a> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Bloomington, Minnesota" ;
+    my_ns:park_name "SEA LIFE Minnesota USA" ;
+    my_ns:type "Aquarium" .
+
+<e0585fb8-8844-4da9-bd62-424394053dc5> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Orlando" ;
+    my_ns:park_name "SeaWorld Orlando" ;
+    my_ns:price "25,000,000" ;
+    my_ns:type "Theme Park" .
+
+<e2bf6a9b-995e-4a13-918a-1fa9bdfa4300> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Hawaii" ;
+    my_ns:park_name "Dolphins and You" ;
+    my_ns:price "NaN"^^xsd:double ;
+    my_ns:type "Marine Attraction" .
+
+<e3cdcc37-3865-4ae4-9062-0213d12d90ed> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "New Jersey" ;
+    my_ns:park_name "Six Flags Great Adventure" ;
+    my_ns:price "50,000,000" ;
+    my_ns:type "Theme Park" .
+
+<e4c7ca5c-d243-4afe-a8ad-d1fd0013c760> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Orlando" ;
+    my_ns:park_name "Walt Disney World - Disney's Hollywood Studios" ;
+    my_ns:price "NaN"^^xsd:double ;
+    my_ns:type "Theme Park" .
+
+<e4da9de7-9cb7-4219-a120-25e995a7ccf3> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Orlando" ;
+    my_ns:park_name "SEA LIFE Orlando" ;
+    my_ns:price "NaN"^^xsd:double ;
+    my_ns:type "Aquarium" .
+
+<e764bb2c-d4ed-46f6-b076-d6c385d379d3> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Colorado" ;
+    my_ns:park_name "Hyland Hills Water World" ;
+    my_ns:price "NaN"^^xsd:double ;
+    my_ns:type "Waterpark" .
+
+<e7cf810b-220c-4c10-9ce4-24812c69c645> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Kansas City" ;
+    my_ns:park_name "Schlitterbahn Kansas" ;
+    my_ns:price "NaN"^^xsd:double ;
+    my_ns:type "Waterpark" .
+
+<e7e87733-ac6b-41bd-b811-9cfdf3b006c0> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Williamsburg" ;
+    my_ns:park_name "Busch Gardens Williamsburg" ;
+    my_ns:type "Theme Park" .
+
+<e8547252-41ae-4b25-9cbf-9833422a0bde> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Florida" ;
+    my_ns:park_name "EPCOT at Walt Disney World" ;
+    my_ns:type "Theme Park" .
+
+<e8a7baa6-cfad-4a2a-a8b1-b80b00445a32> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Florida" ;
+    my_ns:park_name "Wet 'N Wild Orlando" ;
+    my_ns:type "Waterpark" .
+
+<e8e36be5-b97e-4787-a7ea-916f6f4ff74c> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Kansas City" ;
+    my_ns:park_name "SEA LIFE Kansas USA" ;
+    my_ns:price "NaN"^^xsd:double ;
+    my_ns:type "Aquarium" .
+
+<ea559732-e8fc-474a-86e7-9c4a0c73b756> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Arizona" ;
+    my_ns:park_name "Wet 'N Wild Phoenix" ;
+    my_ns:price "NaN"^^xsd:double ;
+    my_ns:type "Waterpark" .
+
+<eaebaea6-d154-4ee0-bbdc-fe9b1779dc2d> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Georgia" ;
+    my_ns:park_name "Six Flags Over Georgia" ;
+    my_ns:type "Theme Park" .
+
+<eb8908cc-4a7a-4a6c-b9c3-5d7be27ae743> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "New York" ;
+    my_ns:park_name "Playland Park" ;
+    my_ns:price "NaN"^^xsd:double ;
+    my_ns:type "Theme Park" .
+
+<ecb044f9-cfb5-4112-8832-70fba66ca60d> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Boston" ;
+    my_ns:park_name "Lego Discovery Center" ;
+    my_ns:type "Indoor Park" .
+
+<ed7cbcb3-c747-4bff-adcd-fd96eb475b68> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Orlando, FL" ;
+    my_ns:park_name "Zero Latency Orlando" ;
+    my_ns:type "VR" .
+
+<edee73e6-b14e-400a-9803-b1f0341ef2a1> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Pennsylvania" ;
+    my_ns:park_name "Dorney Park & Wildwater Kingdom" ;
+    my_ns:type "Theme Park" .
+
+<ee3824ef-1197-4170-bf5f-252aa7d8c767> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Orlando" ;
+    my_ns:park_name "Orlando Eye" ;
+    my_ns:price "90,000,000" ;
+    my_ns:type "Wheel" .
+
+<ee3e4d51-dd14-4a55-a79e-9d105dc659ac> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Westchester" ;
+    my_ns:park_name "Lego Discovery Center" ;
+    my_ns:type "Indoor Park" .
+
+<ef5c81a7-32b1-4a20-a9ca-6b9e0132fd4c> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Texas" ;
+    my_ns:park_name "SeaWorld San Antonio" ;
+    my_ns:type "Theme Park" .
+
+<f2b0d67a-80b3-4da8-97bc-6a1ab1005b6c> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Woburn, MA" ;
+    my_ns:park_name "Zero Latency Woburn" ;
+    my_ns:type "VR" .
+
+<f2d52d78-d73f-4711-9354-184df95d50e0> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Hawaii" ;
+    my_ns:park_name "The Big Kahuna Luau" ;
+    my_ns:type "Show" .
+
+<f9358da9-cab5-41b2-9259-f2589882e0fb> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Hawaii" ;
+    my_ns:park_name "Rock-A-Hula" ;
+    my_ns:type "Show" .
+
+<fe3ae68a-af79-448b-8451-24b5da285462> a my_ns:AmusementPark ;
+    my_ns:country "USA" ;
+    my_ns:location "Washington DC" ;
+    my_ns:park_name "Madame Tussauds Washington DC" ;
+    my_ns:type "Indoor Park" .
+
